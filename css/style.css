@@ -4,13 +4,14 @@
 }
 
 h1 {
-	font-size: 76px;
+	font-size: 56px;
 	font-weight: bold;
 }
 
 h3 {
 	font-size: 36px;
 	font-weight: bold;
+	color: aqua;
 }
 
 p {
